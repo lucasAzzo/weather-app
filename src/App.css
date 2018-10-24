@@ -30,3 +30,11 @@
     transform: rotate(360deg);
   }
 }
+
+.forecast-container {
+  background-color: #999999;
+}
+
+.MuiPaper-root-10 {
+  background-color: #999999 !important;
+}
